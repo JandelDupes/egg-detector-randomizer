@@ -1,5 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JandelDupes/Grow-A-Garden-Dark-Script-Spawner/refs/heads/main/baseEggRandomizer", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JandelDupes/egg-detector-randomizer/refs/heads/main/Script.lua", true))()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JandelDupes/Grow-A-Garden-Dark-Script-Spawner/refs/heads/main/PetMutationFinderByZyroX.txt", true))()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/JandelDupes/Grow-A-Garden-Dark-Script-Spawner/refs/heads/main/baseEggRandomizer", true))()
