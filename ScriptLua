@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/JandelDupes/egg-detector-randomizer/refs/heads/main/Egg%20to%20Pet%20map.txt", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JandelDupes/egg-detector-randomizer/refs/heads/main/eggRandomreal", true))()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JandelDupes/egg-detector-randomizer/refs/heads/main/Script.lua", true))()
 
